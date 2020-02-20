@@ -1,2 +1,4 @@
 # hello-world
-First test repository to verify everything works as expected.
+
+Hello there!
+I am Basilios and I want to start using git with Jenkins.
